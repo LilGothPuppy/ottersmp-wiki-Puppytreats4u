@@ -15,7 +15,7 @@ The server has many unique features that anyone can find appealing. Listed below
 
 [Dungeons](Dungeons.md), a great way to progress the storyline, obtain loot, and have fun all at the same time.
 
-[Campaign](Campaign.md ), the main storyline surrounding the server and world.
+[Campaign](Campaign.md), the main storyline surrounding the server and world.
 
 The server has a very vast history and many things to explore, and all (hopefully) will be written on this wiki. Stayed tuned!
 
