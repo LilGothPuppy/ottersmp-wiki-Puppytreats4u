@@ -18,10 +18,11 @@
 ## Extra Stalls & Chestshop Commands
 
 
-### /arm gui -> Lets you view your stall number and other cool features, such as;
-#### Ender chest -> will show you stalls you own.
+#### /arm gui -> Lets you view your stall number and other cool features, such as;
 
-- Red Bed -> Will let you manage things on your stall.
+
+<details><summary>Ender chest -> will show you stalls you own.
+</summary>- Red Bed -> Will let you manage things on your stall.
     - Playerhead -> Shows you members trusted to your stall.
     - Enderpearl -> Teleports you to the stall.
     - TNT -> Resets stall back to how it was when unclaimed.
@@ -45,6 +46,10 @@
         - Spawn Egg -> Entitiy Limits
         - Book -> Posts info about the stall in chat (only viewable by you!)
         - Oak Door -> Go back a page.
+</details>
+
+
+
     
 #### Oak chest 
 - Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons.
