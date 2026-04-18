@@ -21,6 +21,7 @@
         - Playerhead -> Shows you members trusted to your stall.
         - Enderpearl -> Teleports you to the stall.
         - TNT -> Resets stall back to how it was when unclaimed.
+        - Diamond -> Reset the stall and unrents the stall.
         - Banner -> Flag Editor
             - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.
                 - Book and Quill -> Sets the custom message
@@ -42,10 +43,10 @@
         - Oak Door -> Go back a page.
     
 - Clicking on the oak chest, will show you stalls you are a member of, clicking on the bed will open another UI.
-        - Enderperal -> Teleports you to the stall.
-        - Spawn Egg -> Shows you entitylimits.
-        - book -> Posts info about the stall in chat (only viewable by you!)
+    - Enderperal -> Teleports you to the stall.
+     - Spawn Egg -> Shows you entitylimits.
+    - book -> Posts info about the stall in chat (only viewable by you!)
 
 - Clicking on the compass will show you 'regions free'
-        - Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
-        - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
+    - Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
+    - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
