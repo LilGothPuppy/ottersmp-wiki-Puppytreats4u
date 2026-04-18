@@ -8,3 +8,5 @@
 
 3. How do I get rich?
     - For early game players, I recommend doing /missions to earn quick cash + keys that you can open or sell to other players. For more geared players, there is /mines, which I have separate guides for in [video showcase](https://www.youtube.com/watch?v=M9o_oYA0i20). On top of this, farming & fishing are good for a bit of cash, but they're more repetitive. All require some work & prep though!
+
+4. 
