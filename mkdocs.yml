@@ -47,6 +47,8 @@ nav:
     - Stalls: Stalls.md
     - Voteparty: Voteparty.md
     - Warps: Warps.md
+  - Getting Started:
+    - Tutorial: getting started/tutorial.md
   - Items:
     - Star Shards: items/starshards.md
   - NPC's:
