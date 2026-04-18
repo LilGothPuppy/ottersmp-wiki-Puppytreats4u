@@ -18,7 +18,7 @@
 ## Extra Stalls & Chestshop Commands
 
 
-- /arm gui -> Lets you view your stall number and other cool features, such as;
+### /arm gui -> Lets you view your stall number and other cool features, such as;
 #### Ender chest -> will show you stalls you own.
 
 - Red Bed -> Will let you manage things on your stall.
