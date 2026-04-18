@@ -44,11 +44,13 @@
         - Book -> Posts info about the stall in chat (only viewable by you!)
         - Oak Door -> Go back a page.
     
-- Oak chest -> will show you stalls you are a member of, clicking on the bed will open another UI.
+#### Oak chest 
+- Will show you stalls you are a member of, clicking on the bed will open another UI.
     - Enderperal -> Teleports you to the stall.
     - Spawn Egg -> Shows you entitylimits.
     - book -> Posts info about the stall in chat (only viewable by you!)
 
-- Compass -> will show you 'regions free'
+#### Compass 
+- is supposed to show you 'regions free'
     - Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
     - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
