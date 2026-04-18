@@ -35,6 +35,7 @@ copyright: Copyright &copy; 2025 OtterSMP
 nav:
   - Home:
     - Home: index.md
+    - Tutorial: tutorial.md
     - Currency: Currency.md
     - Dungeons: Dungeons.md
     - Milestones: Milestones.md
@@ -47,8 +48,6 @@ nav:
     - Stalls: Stalls.md
     - Voteparty: Voteparty.md
     - Warps: Warps.md
-  - Getting Started:
-    - Tutorial: getting-started/tutorial.md
   - Items:
     - Star Shards: items/starshards.md
   - NPC's:
