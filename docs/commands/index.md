@@ -2,7 +2,7 @@
 icon: material/home
 ---
 
-#OtterSMP Commands Index
+# OtterSMP Commands Index
 
 Throughout OtterSMP there are several commands from in-game and within the Discord, relating to bots. Some custom made for OtterSMP and some plugin commands. Some of these are common knowledge and other commands are less-known. So this index of the Wiki is to highlight the commands from in-game and within the Discord to expand knowledge and help players.
 

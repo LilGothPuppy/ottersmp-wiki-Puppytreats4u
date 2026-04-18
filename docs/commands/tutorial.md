@@ -33,7 +33,7 @@
     - On top of this, players can make their own shops @ /stalls and throughout the world by using /chestshop create! [See More](stalls.md)
 
 ## 9. What is there to do on Otter?
-We have a ton of custom features and things to do, here are a few:
+- We have a ton of custom features and things to do, here are a few:
     - Run our many dungeon maps to gain loot and kill mobs/bosses
     - Collect tons of custom items, cosmetics and more
     - Gather every kind of custom fish that we have while experiencing our custom fishing plugin
@@ -49,7 +49,7 @@ We have a ton of custom features and things to do, here are a few:
     - The otherone is waystones, the popular mod, right click a waystone and it will register, allowing you to tp back with a different one! Visit a waystone @ /warp waystone.
 
 ## 11. I wanna support Otter financially, how do I do that?
-- I'm glad you enjoy Otter enough to want to help us keep ourselves up and running, visit the server store [here](https://store.ottersmp.com)]! Do note that any purchase you make tallies up to a free additional rank that you get a bunch of cool stuff with. 
+- I'm glad you enjoy Otter enough to want to help us keep ourselves up and running, visit the server store [here](https://store.ottersmp.com)! Do note that any purchase you make tallies up to a free additional rank that you get a bunch of cool stuff with. 
     - [Visit the ranks tab here to see what you'd get!](https://store.ottersmp.com/category/ranks) (Make sure to use creator code Blazurai @ checkout if you enjoy the help provided here!) 
 
 
