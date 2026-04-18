@@ -18,16 +18,16 @@
 ## Extra Stalls & Chestshop Commands
 
 
-#### /arm gui -> Lets you view your stall number and other cool features, such as;
-
-
-<details>
+- <details open>
+<summary>/arm gui -> Lets you view your stall number and other cool features, such as;</summary>
+   </details>
+- <details>
 <summary>Ender chest -> will show you stalls you own.</summary>
-• Red Bed -> Will let you manage things on your stall.
-    • Playerhead -> Shows you members trusted to your stall.
-    • Enderpearl -> Teleports you to the stall.
-    • TNT -> Resets stall back to how it was when unclaimed.
-    • Diamond -> Reset the stall and unrents the stall.
+- Red Bed -> Will let you manage things on your stall.
+        • Playerhead -> Shows you members trusted to your stall.
+        • Enderpearl -> Teleports you to the stall.
+        • TNT -> Resets stall back to how it was when unclaimed.
+        • Diamond -> Reset the stall and unrents the stall.
     • Banner -> Flag Editor
         - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.
             - Book and Quill -> Sets the custom message
