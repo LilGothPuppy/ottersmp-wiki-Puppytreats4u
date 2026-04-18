@@ -3,9 +3,9 @@
 
 
 ## 1. How do I play OtterSMP??
-- Once you have connected to OtterSMP, open chat and do /tutorial. Here is a tutorial made to help new players within OtterSMP, it also explains to you some features of the server! 
+- When connected, open chat and do /tutorial. Here is a tutorial made to help new players within OtterSMP, it also explains to you some features of the server! 
 
-## S. How do I get out of spawn?
+## 2. How do I get out of spawn?
 - Do /rtp - this'll teleport you throughout our world to any non-claimed area. I recommend using this in tandem with /map to find a perfect housing spot.
 
 ## 3. How do I prevent my base from being griefed?
