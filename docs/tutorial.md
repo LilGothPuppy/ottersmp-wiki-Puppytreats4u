@@ -3,7 +3,7 @@
 
 
 ## 1. How do I play OtterSMP??
-- When connected, open chat and do /tutorial. Here is a tutorial made to help new players within OtterSMP, it also explains to you some features of the server! 
+- When connected, open chat and do /tutorial, where you can complete a quick guide so you can learn about the server as a newcomer.
 
 ## 2. How do I get out of spawn?
 - Do /rtp - this'll teleport you throughout our world to any non-claimed area. I recommend using this in tandem with /map to find a perfect housing spot.
@@ -55,8 +55,8 @@
 
 ## 12. I wanna support Otter financially, how do I do that?
 - I'm glad you enjoy Otter enough to want to help us keep ourselves up and running, visit the server store [here](https://store.ottersmp.com)! Do note that any purchase you make tallies up to a free additional rank that you get a bunch of cool stuff with. 
-    - [Visit the ranks tab here to see what you'd get!](https://store.ottersmp.com/category/ranks) (Make sure to use creator code Blazurai @ checkout if you enjoy the help provided here!) 
-
+    - [Visit the ranks tab here to see what you'd get!](https://store.ottersmp.com/category/ranks) 
+    - (Make sure to use creator code Blazurai @ checkout if you enjoy the help provided here!) 
 
 ### Speical Thanks
 Blazurai & izzyehbella for making this tutorial

@@ -65,5 +65,6 @@ nav:
     - Jess: vendors/Jess.md
   - Commands:
     - commands/index.md
+    - commands/stalls.md
   - Credits:
     - credits/list.md
