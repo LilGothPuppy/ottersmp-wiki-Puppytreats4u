@@ -16,8 +16,10 @@
 - /arm removemember [username] -> Allows you to take trust to build at your stall from a user.
 
 ## Extra Stalls & Chestshop Commands
--/arm gui -> Lets you view your stall number and other cool features.
-##### Ender chest -> will show you stalls you own.
+
+
+- /arm gui -> Lets you view your stall number and other cool features, such as;
+#### Ender chest -> will show you stalls you own.
 
 - Red Bed -> Will let you manage things on your stall.
     - Playerhead -> Shows you members trusted to your stall.
@@ -44,12 +46,12 @@
         - Book -> Posts info about the stall in chat (only viewable by you!)
         - Oak Door -> Go back a page.
     
-##### Oak chest 
+#### Oak chest 
 - Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons.
     - Enderperal -> Teleports you to the stall.
     - Spawn Egg -> Shows you entitylimits.
     - book -> Posts info about the stall in chat (only viewable by you!)
 
-##### Compass 
+#### Compass 
 - Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
     - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
