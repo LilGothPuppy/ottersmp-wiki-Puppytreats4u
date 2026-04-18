@@ -1,10 +1,9 @@
-
 # Stalls and Chestshop Commands!
 
-## Index.
+#### Index.
 - Region - Basically the plot your stall sits on, is considered to be it's own 'region' managed by you, the player.
 
-### Basic Stalls & Chestshop Commands
+## Basic Stalls & Chestshop Commands
 - /stalls -> Teleports you to the stalls area where people have their own shops where you can buy or sell items.
 - /find selling [item_name] -> Shows you a list of items being sold in playershops, allowing you to teleport them.
 - /warp stall[number] -> Let's you TP to another player's stall. Example /warp stall15.
@@ -16,11 +15,8 @@
 - /arm addmember [username] -> Let's you give trust to build at your stall to a user.
 - /arm removemember [username] -> Allows you to take trust to build at your stall from a user.
 
-### Extra Stalls & Chestshop Commands
-
-#### /arm gui
-- Let's you view what your stall number is, what your rent cost is, and how many days are left on your stall.
-
+## Extra Stalls & Chestshop Commands
+-/arm gui -> Lets you view your stall number and other cool features.
 #### Ender chest -> will show you stalls you own.
 - clicking on the bed will open another UI.
     - Playerhead -> Shows you members trusted to your stall.
