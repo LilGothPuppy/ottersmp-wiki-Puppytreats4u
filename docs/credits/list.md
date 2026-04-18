@@ -6,4 +6,4 @@ icon: assets/founder
 
 - Jazmine & Meed - Creating and operating OtterSMP
 - Kre0lidge - Creating the orignal Wiki and helping others to maintain and edit it.
-- Blazurai & izzyehbella - Creating orignal foundation for the [commands](commands/index.md)
+- Blazurai & izzyehbella - Creating orignal foundation for the [tutorial](../commands/tutorial.md)
