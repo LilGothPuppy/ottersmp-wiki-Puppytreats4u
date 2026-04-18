@@ -21,8 +21,9 @@
 #### /arm gui -> Lets you view your stall number and other cool features, such as;
 
 
-<details><summary>Ender chest -> will show you stalls you own.
-</summary>- Red Bed -> Will let you manage things on your stall.
+<details>
+<summary>Ender chest -> will show you stalls you own.</summary>
+- Red Bed -> Will let you manage things on your stall.
     - Playerhead -> Shows you members trusted to your stall.
     - Enderpearl -> Teleports you to the stall.
     - TNT -> Resets stall back to how it was when unclaimed.
