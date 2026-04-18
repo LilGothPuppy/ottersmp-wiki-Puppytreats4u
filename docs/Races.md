@@ -1,5 +1,8 @@
-On the OtterSMP, there are three races in which players are able to choose from. The three races are Orc, Human and Elf. Each race has different effects and different potential upgrades that players can get through participating in dungeons.
+As of 18th of April 2026, this feature is stil disabled. 
 
+Races was to be renamed to 'Origins' due to it sounding better. A comment from Blazuari from 7th of December 2024; "It was too hard to develop so it got scrapped"
+
+On the OtterSMP, there are three races in which players are able to choose from. The three races are Orc, Human and Elf. Each race has different effects and different potential upgrades that players can get through participating in dungeons.
 
 ## Orc Race
 
