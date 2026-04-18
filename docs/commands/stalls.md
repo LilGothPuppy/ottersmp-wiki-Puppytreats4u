@@ -1,6 +1,9 @@
 
 # Stalls and Chestshop Commands!
 
+## Index.
+- Region - Basically the plot your stall sits on, is considered to be it's own 'region' managed by you, the player.
+
 ### Basic Stalls & Chestshop Commands
 - /stalls -> Teleports you to the stalls area where people have their own shops where you can buy or sell items.
 - /find selling [item_name] -> Shows you a list of items being sold in playershops, allowing you to teleport them.
@@ -51,6 +54,6 @@
     - book -> Posts info about the stall in chat (only viewable by you!)
 
 #### Compass 
-- is supposed to show you 'regions free'
+- Is supposed to let you search for a 'free region'
     - Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
     - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
