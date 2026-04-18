@@ -16,4 +16,4 @@ There will also be sub-sections for 'Basic' and 'Uncommon' commands.
 
 ### New to OtterSMP?
 
-Head over to [tutorial](commands/tutorial.md) to learn the ropes of OtterSMP
+Head over to [tutorial](tutorial.md) to learn the ropes of OtterSMP
