@@ -30,7 +30,7 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2024 OtterSMP
+copyright: Copyright &copy; 2025 OtterSMP
 
 nav:
   - Home:
@@ -62,3 +62,7 @@ nav:
     - Vendors: vendors/Vendors.md
     - Starfox: vendors/Starfox.md
     - Jess: vendors/Jess.md
+  - Commands:
+    - commands/index.md
+  - Credits:
+    - credits/list.md
