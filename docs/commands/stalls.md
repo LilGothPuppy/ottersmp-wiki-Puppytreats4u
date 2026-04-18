@@ -14,12 +14,9 @@
 - /arm removemember [username] -> Allows you to take trust to build at your stall from a user.
 
 ### Extra Stalls & Chestshop Commands
-/arm gui
-    - when you are standing in your stall, it let's you view what your stall number is, what your rent cost is, and how many days are left on your stall.
-    - Clicking on the oak chest, will show you stalls you are a member of, clicking on the bed will open another UI.
-        - Enderperal -> Teleports you to the stall.
-        - Spawn Egg -> Shows you entitylimits.
-        - book -> Posts info about the stall in chat (only viewable by you!)
+## /arm gui
+
+    - Let's you view what your stall number is, what your rent cost is, and how many days are left on your stall.
     - Clicking on the ender chest, will show you stalls you own.
         - clicking on the bed will open another UI.
         - Playerhead -> Shows you members trusted to your stall.
@@ -40,3 +37,16 @@
             = Set for owners -> Sets flag to stall owner only.
             - Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.
             - set for non-owners -> Sets flag for everyone, but the stall owner.
+        - Clock -> Extends the region time (pays rent)
+        - Spawn Egg -> Entitiy Limits
+        - Book -> Posts info about the stall in chat (only viewable by you!)
+        - Oak Door -> Go back a page.
+    
+    - Clicking on the oak chest, will show you stalls you are a member of, clicking on the bed will open another UI.
+        - Enderperal -> Teleports you to the stall.
+        - Spawn Egg -> Shows you entitylimits.
+        - book -> Posts info about the stall in chat (only viewable by you!)
+
+    - Clicking on the compass will show you 'regions free'
+        - Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
+        - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
