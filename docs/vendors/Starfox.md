@@ -24,12 +24,12 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
     <img src="https://puppies.digitalpawprint.gallery/go/YrpuQz" alt="OG Starfox Armor">
     <img src="https://puppies.digitalpawprint.gallery/go/3WjdnB" alt="Sanguine Armor">
 - <details>
-    <summary>Weapons & Tools</summary>
+    <summary>Weapons & Tools -> Will showcase the tool(s) & weapons from that starfox</summary>
     <img src="https://puppies.digitalpawprint.gallery/go/BAgfEr" alt="The Twisted Blade">
     <img src="https://puppies.digitalpawprint.gallery/go/G2Uw0a" alt="The Skull Cracker">
 
 - <details>
-    <summary>Graidents and Cosmetics</summary>
+    <summary>Graidents, Cosmetics & Pets -> All the things from /cosmetics you could trade in currency for.</summary>
     <img src="https://puppies.digitalpawprint.gallery/go/Q7zfHr" alt="Sanguine Graident">
     <img src="https://puppies.digitalpawprint.gallery/go/JcIdNT" alt="Kawaii Bee backpack">
     <img src="https://puppies.digitalpawprint.gallery/go/uF8jD3" alt="OG Starfox Hat">
@@ -53,12 +53,12 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
     <img src="https://puppies.digitalpawprint.gallery/go/GKyOrG" alt="Haunted Hallows Wizard Armor">
 - <details>
-    <summary>Weapons & Tools</summary>
+    <summary>Weapons & Tools -> Will showcase the tool(s) & weapons from that starfox</summary>
     <img src="https://puppies.digitalpawprint.gallery/go/2VNmkV" alt="The Tree Breaker">
     <img src="https://puppies.digitalpawprint.gallery/go/B2Z13O" alt="The Lighting Harvster">
 
 - <details>
-    <summary>Graidents, Cosmetics and pets</summary>
+    <summary>Graidents, Cosmetics & Pets -> All the things from /cosmetics you could trade in currency for. </summary>
     <img src="https://puppies.digitalpawprint.gallery/go/dNWnWg" alt="Magic Wood Graident">
     <img src="https://puppies.digitalpawprint.gallery/go/vhozPG" alt="Owl Pet">
     <img src="https://puppies.digitalpawprint.gallery/go/TvlwJr" alt="HH Owl Backpack">
