@@ -23,20 +23,20 @@
 
 <details>
 <summary>Ender chest -> will show you stalls you own.</summary>
-        <p>• Red Bed -> Will let you manage things on your stall.</p>
+        • Red Bed -> Will let you manage things on your stall.
         • Playerhead -> Shows you members trusted to your stall.
         • Enderpearl -> Teleports you to the stall.
         • TNT -> Resets stall back to how it was when unclaimed.
         • Diamond -> Reset the stall and unrents the stall.
-        <div>• Banner -> Flag Editor
+        <div>• Banner -> Flag Editor </div>
             - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.
                 - Book and Quill -> Sets the custom message
-            - Ride -> If players can use vehicles (minecarts, animals)
+            <div>- Ride -> If players can use vehicles (minecarts, animals)</div>
                 - Allow -> Will permit anyone to use vehicles.
                 - Deny - > Won't let anyone use vehicles.
             - Use -> If players can use doors, levers, etc.
                 - Allow -> Will permit anyone to use buttons, levers, etc.
-                - Deny - > Won't let anyone use buttons, levers, etc. </div>
+                - Deny - > Won't let anyone use buttons, levers, etc.
             - Barrier Block -> Delete flag
             - Set for everyone -> Sets the flag for everyone in OtterSMP
             - Set for members and owners -> Sets flags for the stall owner and people added.
