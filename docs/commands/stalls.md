@@ -77,3 +77,102 @@
      </ul></details></li> <!-- End  2-->
    </ul> <!-- End -->
   </details>
+
+  ##### Sigh... Round 4?
+
+  - <details>
+  <summary>/arm gui -> Lets you view your stall number and other cool features;</summary>
+
+  - <details>
+    <summary>Ender Chest -> Will show your stall and allow you to manage it.</summary>
+
+    - a list
+    - with some stuff
+    - Playerhead -> Shows you members trusted to your stall.
+    - Enderpearl -> Teleports you to the stall.
+    - TNT -> Resets stall back to how it was when unclaimed.
+    - Diamond -> Reset the stall and unrents the stall.
+    - Clock -> Extends the region time (pays rent)
+    - Spawn Egg -> Entitiy Limits.
+    - Book -> Posts info about the stall in chat (only viewable by you!).
+    - Oak Door -> Go back a page.
+
+    </details>
+
+    - <details>
+    <summary>Banner -> Flag Editor.</summary>
+
+    - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.
+    - Book and Quill -> Sets the custom message.
+    - >Ride -> If players can use vehicles (minecarts, animals).
+    - Use -> If players can use doors, levers, etc.
+    - Allow -> Will permit anyone to use what the flag outlines.
+    - Deny - > Won't let anyone use what the flag outlines.
+    - Barrier Block -> Delete flag
+    - Set for everyone -> Sets the flag for everyone in OtterSMP.
+    - Set for members and owners -> Sets flags for the stall owner and people added.
+    - Set for owners -> Sets flag to stall owner only.
+    - Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.
+    - set for non-owners -> Sets flag for everyone, but the stall owner.
+
+</details>
+  - <details>
+    <summary><b>another subsection</a></summary>
+
+    a. with another list
+    b. and some other stuff
+    d. [and](),
+      [more](),
+      [classic](),
+      [md]
+    e. _no need_ __of html__
+    </details>
+
+  - <details>
+    <summary>last sub-section</a></summary>
+
+    blablabla
+
+    ```rb
+    def some_code
+      puts "Rails is so cool"
+    end
+    ```
+    </details>
+
+  - a random not collapsable section
+    > legacy. Should be restructured.
+
+    ```js
+    console.log("look what I found, a new js framework. Still no real alternative to rails though")
+    ```
+
+  - <details>
+    <summary>and another collapsable section</summary>
+
+    ...
+  </details>
+
+- <details>
+  <summary>section 2</summary>
+      
+  some parent content
+
+  and another list
+
+  - <details>
+    <summary>section 2.1</summary>
+
+      and some content
+    </details>
+
+  - <details>
+    <summary>section 2.2</summary>
+
+      and some content
+    </details>
+  
+  - section 2.3
+    and some no collapsed content
+
+</details>
