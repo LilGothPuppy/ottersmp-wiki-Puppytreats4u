@@ -10,7 +10,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 ### Demon's Den update.
 
-<img src="https://puppies.digitalpawprint.gallery/go/T6LKmQ" alt="Obtained by Vaulted Starfox 1.0" width="320" height="52">
+<img src="https://puppies.digitalpawprint.gallery/go/T6LKmQ" alt="Obtained by Vaulted Starfox 1.0"
 
 The Demon's Den update did not change the Starfox's inventory, however, it technically is the start since the rebrand.
 
@@ -23,14 +23,14 @@ The Demon's Den update did not change the Starfox's inventory, however, it techn
     <img src="https://puppies.digitalpawprint.gallery/go/3WjdnB" alt="Kawaii Bee backpack">
 - <details>
     <summary>Weapons & Tools</summary>
-    <img src="https://puppies.digitalpawprint.gallery/go/BAgfEr" alt="The Twisted Blade" width="500" height="500">
+    <img src="https://puppies.digitalpawprint.gallery/go/BAgfEr" alt="The Twisted Blade"
 
 - <details>
     <summary>Graidents and Comsetics</summary>
-    <img src="https://puppies.digitalpawprint.gallery/go/Q7zfHr" alt="Graident" width="500" height="500">
-    <img src="https://puppies.digitalpawprint.gallery/go/JcIdNT" alt="Kawaii Bee backpack" width="500" height="500">
-
-    <li>Book -> Clicking on the books Will post in chat (only visible to you) your limits regarding stalls.. </li>
+    <img src="https://puppies.digitalpawprint.gallery/go/Q7zfHr" alt="Graident"
+    <img src="https://puppies.digitalpawprint.gallery/go/JcIdNT" alt="Kawaii Bee backpack"
+    <img src="https://puppies.digitalpawprint.gallery/go/uF8jD3" alt="OG Starfox Hat"
+    
 
 ## Year: 2025
 
