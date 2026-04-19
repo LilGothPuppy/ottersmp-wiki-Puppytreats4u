@@ -51,9 +51,10 @@
     <li><details><summary>Compass -> Lets you search for empty regions</summary> <ul> 
             <li>Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.</li>
            <li>Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls. </li>
-     </ul></details></li> <!-- End  2-->
+     </details></li> <!-- End  2-->
    </ul> <!-- End -->
   </details>
+</details>
 
   ##### Sigh... Round 4?
 
@@ -71,8 +72,8 @@
     <li> Spawn Egg -> Entitiy Limits.</li>
     <li> Book -> Posts info about the stall in chat (only viewable by you!).</li>
     <li> Oak Door -> Go back a page.</li>
-    <summary>Banner -> Flag Editor.</summary>
 
+    <li><summary>Banner -> Flag Editor.</summary><ul> 
     <li> Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</li>
     <li> Book and Quill -> Sets the custom message.</li>
     <li> Ride -> If players can use vehicles (minecarts, animals).</li>
@@ -87,17 +88,13 @@
     <li> set for non-owners -> Sets flag for everyone, but the stall owner.</li>
 
 </details>
-  - <details>
-    <summary><b>another subsection</a></summary>
+- <details>
+    <summary>Oak Chest -> Will let you view stalls you are a member of</summary>
+    <li>Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons</li>
+    <li>Enderperal -> Teleports you to the stall. </li>
+    <li>Spawn Egg -> Shows you entitylimits. </li>
 
-    a. with another list
-    b. and some other stuff
-    d. [and](),
-      [more](),
-      [classic](),
-      [md]
-    e. _no need_ __of html__
-    </details>
+</details>
 
   - <details>
     <summary>last sub-section</a></summary>
