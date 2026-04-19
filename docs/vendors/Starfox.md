@@ -14,7 +14,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
     
 <li> Season 1 of OtterSMP, 'Demon Den', this starfox contained a few pieces of furniture, cuddly lootboxes, keys, and packages alongside weapons, armor, and a few cosmetic items for players to buy. This starfox stayed until Halloween, when it was replaced by Haunted Hallows. </li>
 <li> Currency that was used back then </li>
-<img src="https://puppies.digitalpawprint.gallery/go/NAbUPZ" alt="OG Starshards screenshot">
+<img src="https://puppies.digitalpawprint.gallery/go/QAyMvk" alt="OG Starshards screenshot">
 
   <summary>What was included in this Starfox</summary>
 
