@@ -23,30 +23,30 @@
 
 <details>
 <summary>Ender chest -> will show you stalls you own.</summary>
-        • Red Bed -> Will let you manage things on your stall.
-        • Playerhead -> Shows you members trusted to your stall.
-        • Enderpearl -> Teleports you to the stall.
-        • TNT -> Resets stall back to how it was when unclaimed.
-        • Diamond -> Reset the stall and unrents the stall.
+    <div> • Red Bed -> Will let you manage things on your stall. </div>
+    <div> - Playerhead -> Shows you members trusted to your stall.</div>
+    <div> - Enderpearl -> Teleports you to the stall.</div>
+    <div> - TNT -> Resets stall back to how it was when unclaimed.</div>
+    <div> - Diamond -> Reset the stall and unrents the stall.</div>
         <div>• Banner -> Flag Editor </div>
-            - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.
-                - Book and Quill -> Sets the custom message
-            <div>- Ride -> If players can use vehicles (minecarts, animals)</div>
-                - Allow -> Will permit anyone to use vehicles.
-                - Deny - > Won't let anyone use vehicles.
-            - Use -> If players can use doors, levers, etc.
-                - Allow -> Will permit anyone to use buttons, levers, etc.
-                - Deny - > Won't let anyone use buttons, levers, etc.
-            - Barrier Block -> Delete flag
-            - Set for everyone -> Sets the flag for everyone in OtterSMP
-            - Set for members and owners -> Sets flags for the stall owner and people added.
-            - Set for owners -> Sets flag to stall owner only.
-            - Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.
-            - set for non-owners -> Sets flag for everyone, but the stall owner.
-        - Clock -> Extends the region time (pays rent)
-            - Spawn Egg -> Entitiy Limits
-            - Book -> Posts info about the stall in chat (only viewable by you!)
-            - Oak Door -> Go back a page.
+        <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
+        <div>   - Book and Quill -> Sets the custom message</div>
+        <div>   - Ride -> If players can use vehicles (minecarts, animals)</div>
+        <div>   - Allow -> Will permit anyone to use vehicles.</div>
+        <div>   - Deny - > Won't let anyone use vehicles.</div>
+        <div>   - Use -> If players can use doors, levers, etc.</div>
+        <div>   - Allow -> Will permit anyone to use buttons, levers, etc.</div>
+        <div>   - Deny - > Won't let anyone use buttons, levers, etc.</div>
+    <div> - Barrier Block -> Delete flag</div>
+        <div>   - Set for everyone -> Sets the flag for everyone in OtterSMP</div>
+        <div>   - Set for members and owners -> Sets flags for the stall owner and people added.</div>
+        <div>   - Set for owners -> Sets flag to stall owner only.</div>
+        <div>   - Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</div>
+        <div>   - set for non-owners -> Sets flag for everyone, but the stall owner.</div>
+    <div> • Clock -> Extends the region time (pays rent)</div>
+        <div>   - Spawn Egg -> Entitiy Limits</div>
+        <div>   - Book -> Posts info about the stall in chat (only viewable by you!)</div>
+        <div>   - Oak Door -> Go back a page.</div>
 </details>
 
 
