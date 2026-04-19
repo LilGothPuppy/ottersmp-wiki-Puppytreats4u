@@ -42,10 +42,27 @@
 </details>
 </details>
 
+## Testing Code
+
+  * <details><summary>/arm gui -> Lets you view your stall number and other cool features, such as;</summary><ul>
+     <li><details><summary>Ender Chest -> Will show your stall, clicking upon in will open the sub-menus;</summary> <ul> 
+           <li>Playerhead -> Shows you members trusted to your stall.</li>
+           <li>Enderpearl -> Teleports you to the stall.</li>
+           <li>TNT -> Resets stall back to how it was when unclaimed.</li>
+           <li>Diamond -> Reset the stall and unrents the stall.</li>
+     </ul></details></li> <!-- End 1 -->
+     <li><details><summary> 1.2 <a href=""> Second Level 2 </a> </summary> <ul> 
+           <li>1.2.1 <a href=""> Third 1b</a> </li>
+           <li>1.2.2 <a href=""> Third 2b</a> </li>
+           <li>1.2.3 <a href=""> Third 3b</a> </li>
+     </ul></details></li> <!-- End  2-->
+     <li>1.5 <a href=""> Alone 1</a> </li>
+     <li>1.6 <a href=""> Alone 2</a> </li>
+   </ul> <!-- End -->
+  </details>
 
 
-
-#### Old
+## Old
             <div>• Banner -> Flag Editor </div>
             <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
             <div>   - Book and Quill -> Sets the custom message</div>
@@ -65,12 +82,6 @@
         <div>   - Spawn Egg -> Entitiy Limits</div>
         <div>   - Book -> Posts info about the stall in chat (only viewable by you!)</div>
         <div>   - Oak Door -> Go back a page.</div>
-
-
-           <li>1.1.1 <a href=""> Third 1a </a> </li>
-           <li>1.1.2 <a href=""> Third 2a</a> </li>
-           <li>1.1.3 <a href=""> Third 3a</a> </li>
-
     
 #### Oak chest 
 - Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons.
