@@ -61,7 +61,7 @@ nav:
     - Abby: NPCs/Abby.md
   - Vendors:
     - Vendors: vendors/Vendors.md
-    - Starfox: vendors/Starfox.md
+    - Starfox: vendors/starfox.md
     - Jess: vendors/Jess.md
   - Commands:
     - commands/index.md
