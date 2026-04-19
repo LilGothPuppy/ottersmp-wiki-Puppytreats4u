@@ -12,6 +12,9 @@
 - /chestshop create [price] -> When you are staring at a chest or a barrel while holding an item, it allows you to create a chestshop for that item where you can either buy or sell that item.
 - /chestshop staff add [username] -> Allows you to add someone to your chestshop, so they can restock for you.
 - /chestshop staff remove [username]  -> Allows you to remove someone from your chestshop, locking it.
+- /qs create [price] -> Whilst looking at a barrel or chest, doing this command will sell the item you're currently holding
+- /qs remove -> Removes the chestshop
+- /qs amount [amount] -> You must have left-clicked a chestshop to use this command, this will allow you to buy things if you get muted!
 - /qs price [amount] -> Allows you to change the price of a chestshop you are staring at.
 - /arm addmember [username] -> Let's you give trust to build at your stall to a user.
 - /arm removemember [username] -> Allows you to take trust to build at your stall from a user.
@@ -55,4 +58,3 @@
     <summary>Compass -> Lets you search for empty regions</summary>
     <li>Spades -> Supposed to search for shop regions, but it hasn't worked since Stalls 1.1 was introduced.</li>
     <li>Book -> Clicking on the books Will post in chat (only visible to you) your limits regarding stalls.. </li>
-</details>
