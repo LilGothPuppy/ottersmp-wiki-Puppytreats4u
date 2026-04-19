@@ -18,31 +18,23 @@
 ## Extra Stalls & Chestshop Commands
 
 
-* <details><summary>1 <a href="#"> /arm gui -> Lets you view your stall number and other cool features, such as;</a></summary><ul>
-     <li><details><summary> Ender Chest <a href="">-> will show you stalls you own and let you manage them </a> </summary> <ul> 
+* <details open><summary>/arm gui -> Lets you view your stall number and other cool features, such as;</summary><ul>
+     <li><details><summary> Ender Chest -> will show you stalls you own and let you manage them  </summary> <ul> 
            <li>- Playerhead -> Shows you members trusted to your stall. </li>
            <li>- Enderpearl -> Teleports you to the stall. </li>
-           <li> - TNT -> Resets stall back to how it was when unclaimed. </li>
-           <li> - Diamond -> Reset the stall and unrents the stall. </li>
+           <li>- TNT -> Resets stall back to how it was when unclaimed. </li>
+           <li>- Diamond -> Reset the stall and unrents the stall. </li>
      </ul></details></li> <!-- End 1 -->
-     <li><details><summary> 1.2 <a href=""> Second Level 2 </a> </summary> <ul> 
-           <li>1.2.1 <a href=""> Third 1b</a> </li>
-           <li>1.2.2 <a href=""> Third 2b</a> </li>
-           <li>1.2.3 <a href=""> Third 3b</a> </li>
+     <li><<summary>• Banner -> Flag Editor <</summary><ul> 
+           <li>- Greeting message -> Allows you to set a custom greeting message when someone enters your stall. </li>
+           <li>- Book and Quill -> Sets the custom message </li>
+           <li>- Ride -> If players can use vehicles (minecarts, animals) </li>
      </ul></details></li> <!-- End  2-->
      <li>1.5 <a href=""> Alone 1</a> </li>
      <li>1.6 <a href=""> Alone 2</a> </li>
    </ul> <!-- End -->
   </details>
 
-#### /arm gui -> Lets you view your stall number and other cool features, such as;
-<details>
-<summary>Ender chest -> will show you stalls you own.</summary>
-    <div> • Red Bed -> Will let you manage things on your stall. </div>
-    <div> - Playerhead -> Shows you members trusted to your stall.</div>
-    <div> - Enderpearl -> Teleports you to the stall.</div>
-    <div> - TNT -> Resets stall back to how it was when unclaimed.</div>
-    <div> - Diamond -> Reset the stall and unrents the stall.</div>
             <div>• Banner -> Flag Editor </div>
             <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
             <div>   - Book and Quill -> Sets the custom message</div>
@@ -62,7 +54,7 @@
         <div>   - Spawn Egg -> Entitiy Limits</div>
         <div>   - Book -> Posts info about the stall in chat (only viewable by you!)</div>
         <div>   - Oak Door -> Go back a page.</div>
-</details>
+
 
            <li>1.1.1 <a href=""> Third 1a </a> </li>
            <li>1.1.2 <a href=""> Third 2a</a> </li>
