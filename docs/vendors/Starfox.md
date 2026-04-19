@@ -19,8 +19,8 @@ The Demon's Den update did not change the Starfox's inventory, however, it techn
   - <details>
     <summary>Armor -> Will list every armor set that was in Starfox.</summary>
 
-    <img src="https://puppies.digitalpawprint.gallery/go/YrpuQz" alt="OG Starfox Armor" width="500" height="500">
-    <img src="https://puppies.digitalpawprint.gallery/go/3WjdnB" alt="Kawaii Bee backpack" width="500" height="500">
+    <img src="https://puppies.digitalpawprint.gallery/go/YrpuQz" alt="OG Starfox Armor">
+    <img src="https://puppies.digitalpawprint.gallery/go/3WjdnB" alt="Kawaii Bee backpack">
 - <details>
     <summary>Weapons & Tools</summary>
     <img src="https://puppies.digitalpawprint.gallery/go/BAgfEr" alt="The Twisted Blade" width="500" height="500">
