@@ -22,7 +22,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
     <summary>Armor -> Will list every armor set that was in Starfox.</summary>
 
     <img src="https://puppies.digitalpawprint.gallery/go/YrpuQz" alt="OG Starfox Armor">
-    <img src="https://puppies.digitalpawprint.gallery/go/3WjdnB" alt="Kawaii Bee backpack">
+    <img src="https://puppies.digitalpawprint.gallery/go/3WjdnB" alt="Sanguine Armor">
 - <details>
     <summary>Weapons & Tools</summary>
     <img src="https://puppies.digitalpawprint.gallery/go/BAgfEr" alt="The Twisted Blade">
@@ -30,7 +30,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 - <details>
     <summary>Graidents and Cosmetics</summary>
-    <img src="https://puppies.digitalpawprint.gallery/go/Q7zfHr" alt="Graident">
+    <img src="https://puppies.digitalpawprint.gallery/go/Q7zfHr" alt="Sanguine Graident">
     <img src="https://puppies.digitalpawprint.gallery/go/JcIdNT" alt="Kawaii Bee backpack">
     <img src="https://puppies.digitalpawprint.gallery/go/uF8jD3" alt="OG Starfox Hat">
     <img src="https://puppies.digitalpawprint.gallery/go/tUKOMq" alt="Starfox Pink Heart Badge">
@@ -42,9 +42,29 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 <img src="https://puppies.digitalpawprint.gallery/go/UDXmNd" alt="Haunted Hallows V1 Starfox Menu">
 
 <li> Now we roll into season 2 of OtterSMP, 'Haunted Hallows', along with this update brought the HAUNTED crate and a refresh to starfox.</li>
-<li> This starfox, introduced a new pet, graident, new weapons and a new farming hoe. We got a new set of armor called 'Wizards Armor', along with decor, a balloon and two plushies. Starfox also had money, claimblocks, keys and lootboxs avivable to purchuse. </li>
+<li> This starfox, introduced a new pet, graident, a new Axe with matching farming hoe. We got a new set of armor called 'Wizards Armor', along with decor, balloons and plushies. Starfox also had money, claimblocks, keys and lootboxs avivable to purchuse. We also, for the first time had an option to buy 'Baubles' from starfox, as a little "We were here for this event" and a thank you from Jazmine.</li>
 <li> Currency that was used back then </li>
 <img src="https://puppies.digitalpawprint.gallery/go/oipwYb" alt="Haunted Hallows Starfox Currency">
+
+  <summary>What was included in this Starfox</summary>
+
+  - <details>
+    <summary>Armor -> Will list every armor set that was in Starfox.</summary>
+
+    <img src="https://puppies.digitalpawprint.gallery/go/GKyOrG" alt="Haunted Hallows Wizard Armor">
+- <details>
+    <summary>Weapons & Tools</summary>
+    <img src="https://puppies.digitalpawprint.gallery/go/2VNmkV" alt="The Tree Breaker">
+    <img src="https://puppies.digitalpawprint.gallery/go/B2Z13O" alt="The Lighting Harvster">
+
+- <details>
+    <summary>Graidents, Cosmetics and pets</summary>
+    <img src="https://puppies.digitalpawprint.gallery/go/dNWnWg" alt="Magic Wood Graident">
+    <img src="https://puppies.digitalpawprint.gallery/go/vhozPG" alt="Owl Pet">
+    <img src="https://puppies.digitalpawprint.gallery/go/TvlwJr" alt="HH Owl Backpack">
+    <img src="https://puppies.digitalpawprint.gallery/go/2V9fqj" alt="Unicorn Balloon">
+    <img src="https://puppies.digitalpawprint.gallery/go/ScXcFp" alt="HH Bauble">
+    
 
 
 ## Year: 2025
