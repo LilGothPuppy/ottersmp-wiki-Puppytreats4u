@@ -35,8 +35,8 @@ The Demon's Den update did not change the Starfox's inventory, however, it techn
     <li> Mythic Trait: When you kill a mob it has a chance to drop redstone dust. It will also have a 15% to receive a damage boost.</li>
 
 - <details>
-    <summary>Compass -> Lets you search for empty regions</summary>
-    <li>Spades -> Supposed to search for shop regions, but it hasn't worked since Stalls 1.1 was introduced.</li>
+    <summary>Graidents and Comsetics</summary>
+    <li><img src="https://puppies.digitalpawprint.gallery/go/UvN9ex" alt="Graident" width="500" height="333"></li>
     <li>Book -> Clicking on the books Will post in chat (only visible to you) your limits regarding stalls.. </li>
 
 ## Year: 2025
