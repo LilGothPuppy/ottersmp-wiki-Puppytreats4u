@@ -63,8 +63,12 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
     <img src="https://puppies.digitalpawprint.gallery/go/vhozPG" alt="Owl Pet">
     <img src="https://puppies.digitalpawprint.gallery/go/TvlwJr" alt="HH Owl Backpack">
     <img src="https://puppies.digitalpawprint.gallery/go/2V9fqj" alt="Unicorn Balloon">
+
+
+- <details>
+    <summary>Misc Items -> Things such as Baubles, Titles & Badges. </summary>
     <img src="https://puppies.digitalpawprint.gallery/go/ScXcFp" alt="HH Bauble">
-    
+
 
 
 ## Year: 2025
