@@ -8,7 +8,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 ## Year: 2024
 
- ### Demon's Den update.
+### Demon's Den update.
 
 The Demon's Den update did not change the Starfox's inventory, however, it technically is the start since the rebrand.
 
@@ -43,5 +43,3 @@ The Demon's Den update did not change the Starfox's inventory, however, it techn
 
 
 ## Year: 2026
-
-### 
