@@ -43,7 +43,7 @@
 ## Testing Code
 
   * <details><summary> - T E S T I N G - /arm gui -> Lets you view your stall number and other cool features, such as;</summary><ul>
-     <li><details><summary>Ender Chest -> Will show your stall, clicking upon in will open the sub-menus;</summary> <ul> 
+    <li><details><summary>Ender Chest -> Will show your stall, clicking upon in will open the sub-menus;</summary> <ul> 
            <li>Playerhead -> Shows you members trusted to your stall.</li>
            <li>Enderpearl -> Teleports you to the stall.</li>
            <li>TNT -> Resets stall back to how it was when unclaimed.</li>
@@ -66,7 +66,7 @@
            <li>Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</li>
            <li>set for non-owners -> Sets flag for everyone, but the stall owner.</li>
      </ul></details></li> <!-- End 1 -->
-     <li><details><summary>Oak Chest -> Will let you view stalls you are a member of.;</summary> <ul> 
+    <li><details><summary>Oak Chest -> Will let you view stalls you are a member of.;</summary> <ul> 
            <li>Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons</li>
            <li>Enderperal -> Teleports you to the stall. </li>
            <li>Spawn Egg -> Shows you entitylimits. </li>
@@ -77,35 +77,3 @@
      </ul></details></li> <!-- End  2-->
    </ul> <!-- End -->
   </details>
-
-
-## Old
-            <div>• Banner -> Flag Editor </div>
-            <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
-            <div>   - Book and Quill -> Sets the custom message</div>
-            <div>   - Ride -> If players can use vehicles (minecarts, animals)</div>
-            <div>   - Allow -> Will permit anyone to use vehicles.</div>
-            <div>   - Deny - > Won't let anyone use vehicles.</div>
-            <div>   - Use -> If players can use doors, levers, etc.</div>
-            <div>   - Allow -> Will permit anyone to use buttons, levers, etc.</div>
-            <div>   - Deny - > Won't let anyone use buttons, levers, etc.</div>
-    <div> - Barrier Block -> Delete flag</div>
-        <div>   - Set for everyone -> Sets the flag for everyone in OtterSMP</div>
-        <div>   - Set for members and owners -> Sets flags for the stall owner and people added.</div>
-        <div>   - Set for owners -> Sets flag to stall owner only.</div>
-        <div>   - Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</div>
-        <div>   - set for non-owners -> Sets flag for everyone, but the stall owner.</div>
-    <div> • Clock -> Extends the region time (pays rent)</div>
-        <div>   - Spawn Egg -> Entitiy Limits</div>
-        <div>   - Book -> Posts info about the stall in chat (only viewable by you!)</div>
-        <div>   - Oak Door -> Go back a page.</div>
-    
-#### Oak chest 
-- Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons.
-    - Enderperal -> Teleports you to the stall.
-    - Spawn Egg -> Shows you entitylimits.
-    - book -> Posts info about the stall in chat (only viewable by you!)
-
-#### Compass 
-- Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.
-    - Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls.
