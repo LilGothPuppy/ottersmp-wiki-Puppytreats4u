@@ -12,7 +12,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 <img src="https://puppies.digitalpawprint.gallery/go/YKNeVj" alt="OG Starfox Menu">
     
-<li> Season 1 of OtterSMP, 'Demon Den', this crate contained a few pieces of furniture, cuddly lootboxs, keys and packages alongside weapons, armor and a few cosmetic items for player to buy. This starfox stayed until Halloween where it was replaced by Haunte Hallows. </li>
+<li> Season 1 of OtterSMP, 'Demon Den', this starfox contained a few pieces of furniture, cuddly lootboxs, keys and packages alongside weapons, armor and a few cosmetic items for player to buy. This starfox stayed until Halloween where it was replaced by Haunte Hallows. </li>
 <li> Currency that was used back then </li>
 <img src="https://puppies.digitalpawprint.gallery/go/e6Ptpu" alt="OG Starshards">
 
@@ -35,6 +35,17 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
     <img src="https://puppies.digitalpawprint.gallery/go/uF8jD3" alt="OG Starfox Hat">
     <img src="https://puppies.digitalpawprint.gallery/go/tUKOMq" alt="Starfox Pink Heart Badge">
     
+
+
+### Haunted Hallows update.
+
+<img src="https://puppies.digitalpawprint.gallery/go/UDXmNd" alt="Haunted Hallows V1 Starfox Menu">
+
+<li> Now we roll into season 2 of OtterSMP, 'Haunted Hallows', along with this update brought the HAUNTED crate and a refresh to starfox.</li>
+<li> This starfox, introduced a new pet, graident, new weapons and a new farming hoe. We got a new set of armor called 'Wizards Armor', along with decor, a balloon and two plushies. Starfox also had money, claimblocks, keys and lootboxs avivable to purchuse. </li>
+<li> Currency that was used back then </li>
+<img src="https://puppies.digitalpawprint.gallery/go/oipwYb" alt="Haunted Hallows Starfox Currency">
+
 
 ## Year: 2025
 
