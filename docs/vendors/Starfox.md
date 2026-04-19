@@ -10,7 +10,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 ### Demon's Den update.
 
-<img src="https://puppies.digitalpawprint.gallery/go/T6LKmQ" alt="Obtained by Vaulted Starfox 1.0" width="500" height="500">
+<img src="https://puppies.digitalpawprint.gallery/go/T6LKmQ" alt="Obtained by Vaulted Starfox 1.0" width="320" height="52">
 
 The Demon's Den update did not change the Starfox's inventory, however, it technically is the start since the rebrand.
 
