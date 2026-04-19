@@ -17,7 +17,6 @@
 
 ## Extra Stalls & Chestshop Commands
 
-  - <details>
   <summary>/arm gui -> Lets you view your stall number and other cool features;</summary>
 
   - <details>
@@ -45,7 +44,6 @@
     <li> Set for owners -> Sets flag to stall owner only.</li>
     <li> Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</li>
     <li> set for non-owners -> Sets flag for everyone, but the stall owner.</li>
-
 </details>
 - <details>
     <summary>Oak Chest -> Will let you view stalls you are a member of</summary>
