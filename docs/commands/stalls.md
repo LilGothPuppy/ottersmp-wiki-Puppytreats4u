@@ -30,7 +30,6 @@
     <li> Spawn Egg -> Entitiy Limits.</li>
     <li> Book -> Posts info about the stall in chat (only viewable by you!).</li>
     <li> Oak Door -> Go back a page.</li>
-
     <li><summary>Banner -> Flag Editor.</summary><ul> 
     <li> Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</li>
     <li> Book and Quill -> Sets the custom message.</li>
@@ -44,60 +43,17 @@
     <li> Set for owners -> Sets flag to stall owner only.</li>
     <li> Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</li>
     <li> set for non-owners -> Sets flag for everyone, but the stall owner.</li>
-</details>
+    </details>
+
 - <details>
     <summary>Oak Chest -> Will let you view stalls you are a member of</summary>
     <li>Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons</li>
     <li>Enderperal -> Teleports you to the stall. </li>
     <li>Spawn Egg -> Shows you entitylimits. </li>
-
 </details>
 
-  - <details>
-    <summary>last sub-section</a></summary>
-
-    blablabla
-
-    ```rb
-    def some_code
-      puts "Rails is so cool"
-    end
-    ```
-    </details>
-
-  - a random not collapsable section
-    > legacy. Should be restructured.
-
-    ```js
-    console.log("look what I found, a new js framework. Still no real alternative to rails though")
-    ```
-
-  - <details>
-    <summary>and another collapsable section</summary>
-
-    ...
-  </details>
-
 - <details>
-  <summary>section 2</summary>
-      
-  some parent content
-
-  and another list
-
-  - <details>
-    <summary>section 2.1</summary>
-
-      and some content
-    </details>
-
-  - <details>
-    <summary>section 2.2</summary>
-
-      and some content
-    </details>
-  
-  - section 2.3
-    and some no collapsed content
-
+    <summary>Compass -> Lets you search for empty regions</summary>
+    <li>Spades -> Supposed to search for shop regions, but it hasn't worked since Stalls 1.1 was introduced.</li>
+    <li>Book -> Clicking on the books Will post in chat (only visible to you) your limits regarding stalls.. </li>
 </details>
