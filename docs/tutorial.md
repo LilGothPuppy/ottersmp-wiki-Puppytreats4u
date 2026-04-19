@@ -35,7 +35,7 @@
 
 ## 9. How can I buy and sell items?
 - Players can use /ah and /shop to buy & sell items. 
-    - On top of this, players can make their own shops @ /stalls and throughout the world by using /chestshop create! [See More](stalls.md)
+    - On top of this, players can make their own shops @ /stalls and throughout the world by using /chestshop create! [See More](commands/stalls.md)
 
 ## 10. What is there to do on Otter?
 - We have a ton of custom features and things to do, here are a few:
