@@ -10,12 +10,15 @@
 - /find selling [item_name] -> Allows you to serach for items players are selling, you can even TP to the chestshop, if there is room to TP you.
 - /find buying [item_name] -> Allows you to search for items players are buying, you can even TP to the chestshop, if there is room to TP you.
 - /chestshop create [price] -> When you are staring at a chest or a barrel while holding an item, it allows you to create a chestshop for that item where you can either buy or sell that item.
+- /chestshop remove -> Removes the chestshop
 - /chestshop staff add [username] -> Allows you to add someone to your chestshop, so they can restock for you.
 - /chestshop staff remove [username]  -> Allows you to remove someone from your chestshop, locking it.
 - /qs create [price] -> Whilst looking at a barrel or chest, doing this command will sell the item you're currently holding
 - /qs remove -> Removes the chestshop
 - /qs amount [amount] -> You must have left-clicked a chestshop to use this command, this will allow you to buy things if you get muted!
 - /qs price [amount] -> Allows you to change the price of a chestshop you are staring at.
+- /qs benefit add [username] [number%] -> Let's you add a user to benefit from your sales at your shop. I.E. /qs benefit add puppytreats4u 10% will give that player 10% of the sale money.
+- /qs benefit remove [username] [number%] -> Let's you take away a certain amount from a player or fully remove them from earning money when an item sells.
 - /arm addmember [username] -> Let's you give trust to build at your stall to a user.
 - /arm removemember [username] -> Allows you to take trust to build at your stall from a user.
 
