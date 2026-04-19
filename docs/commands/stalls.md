@@ -39,7 +39,6 @@
 </details>
 </details>
 </details>
-</details>
 
 ## Testing Code
 
@@ -67,10 +66,14 @@
            <li>Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</li>
            <li>set for non-owners -> Sets flag for everyone, but the stall owner.</li>
      </ul></details></li> <!-- End 1 -->
-     <li><details><summary> 1.2 <a href=""> Second Level 2 </a> </summary> <ul> 
-           <li>1.2.1 <a href=""> Third 1b</a> </li>
-           <li>1.2.2 <a href=""> Third 2b</a> </li>
-           <li>1.2.3 <a href=""> Third 3b</a> </li>
+     <li><details><summary>Oak Chest -> Will let you view stalls you are a member of.;</summary> <ul> 
+           <li>Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons</li>
+           <li>Enderperal -> Teleports you to the stall. </li>
+           <li>Spawn Egg -> Shows you entitylimits. </li>
+           <li>book -> Posts info about the stall in chat (only viewable by you!)
+    <li><details><summary>Compass -> Lets you search for empty regions</summary> <ul> 
+            <li>Clicking on any of the spades or emeralrd -> This will tell you there is no region type found, this is broken.</li>
+           <li>Clicking on the books -> Will post in chat (only visible to you) your limits regarding stalls. </li>
      </ul></details></li> <!-- End  2-->
    </ul> <!-- End -->
   </details>
