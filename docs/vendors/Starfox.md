@@ -10,7 +10,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 ### Demon's Den update.
 
-<img src="https://puppies.digitalpawprint.gallery/go/HPvQBh" alt="OG Starfox Menu">
+<img src="https://puppies.digitalpawprint.gallery/go/YKNeVj" alt="OG Starfox Menu">
     
 <li> Season 1 of OtterSMP, 'Demon Den', this crate contained a few pieces of furniture, cuddly lootboxs, keys and packages alongside weapons, armor and a few cosmetic items for player to buy. This starfox stayed until Halloween where it was replaced by Haunte Hallows. </li>
 <li> Currency that was used back then </li>
