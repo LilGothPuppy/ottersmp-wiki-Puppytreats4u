@@ -28,15 +28,15 @@
     <div> - Enderpearl -> Teleports you to the stall.</div>
     <div> - TNT -> Resets stall back to how it was when unclaimed.</div>
     <div> - Diamond -> Reset the stall and unrents the stall.</div>
-        <div>• Banner -> Flag Editor </div>
-        <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
-        <div>   - Book and Quill -> Sets the custom message</div>
-        <div>   - Ride -> If players can use vehicles (minecarts, animals)</div>
-        <div>   - Allow -> Will permit anyone to use vehicles.</div>
-        <div>   - Deny - > Won't let anyone use vehicles.</div>
-        <div>   - Use -> If players can use doors, levers, etc.</div>
-        <div>   - Allow -> Will permit anyone to use buttons, levers, etc.</div>
-        <div>   - Deny - > Won't let anyone use buttons, levers, etc.</div>
+            <div>• Banner -> Flag Editor </div>
+            <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
+            <div>   - Book and Quill -> Sets the custom message</div>
+            <div>   - Ride -> If players can use vehicles (minecarts, animals)</div>
+            <div>   - Allow -> Will permit anyone to use vehicles.</div>
+            <div>   - Deny - > Won't let anyone use vehicles.</div>
+            <div>   - Use -> If players can use doors, levers, etc.</div>
+            <div>   - Allow -> Will permit anyone to use buttons, levers, etc.</div>
+            <div>   - Deny - > Won't let anyone use buttons, levers, etc.</div>
     <div> - Barrier Block -> Delete flag</div>
         <div>   - Set for everyone -> Sets the flag for everyone in OtterSMP</div>
         <div>   - Set for members and owners -> Sets flags for the stall owner and people added.</div>
