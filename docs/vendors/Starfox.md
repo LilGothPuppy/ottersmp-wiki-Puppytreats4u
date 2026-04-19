@@ -12,7 +12,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 <img src="https://puppies.digitalpawprint.gallery/go/YKNeVj" alt="OG Starfox Menu">
     
-<li> Season 1 of OtterSMP, 'Demon Den', this starfox contained a few pieces of furniture, cuddly lootboxes, keys, and packages alongside weapons, armor, and a few cosmetic items for players to buy. This starfox stayed until Halloween, when it was replaced by Haunted Hallows. </li>
+<li> First season of OtterSMP, 'Demon Den', this starfox contained a few pieces of furniture, cuddly lootboxes, keys, and packages alongside weapons, armor, and a few cosmetic items for players to buy. This starfox stayed until Halloween, when it was replaced by Haunted Hallows. </li>
 <li> Currency that was used back then </li>
 <img src="https://puppies.digitalpawprint.gallery/go/QAyMvk" alt="OG Starshards screenshot">
 
@@ -41,7 +41,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 <img src="https://puppies.digitalpawprint.gallery/go/UDXmNd" alt="Haunted Hallows V1 Starfox Menu">
 
-<li> Now we roll into season 2 of OtterSMP, 'Haunted Hallows', along with this update, which brought the HAUNTED crate and a refresh to Starfox.</li>
+<li> Now we roll into Second season of OtterSMP, 'Haunted Hallows', along with this update, which brought the HAUNTED crate and a refresh to Starfox.</li>
 <li> This Starfox, introduced a new pet, Graident, a new axe with a matching farming hoe. We got a new set of armor called 'Wizards Armor', along with decor, balloons and plushies. Starfox also had money, claimblocks, keys and a new limited furniture box available to purchase. We also, for the first time, had an option to buy 'Baubles' from Starfox, as a little "We were here for this event", and a thank you from Jazmine.</li>
 <li> Currency that was used back then </li>
 <img src="https://puppies.digitalpawprint.gallery/go/tKLlrb" alt="Haunted Hallows Starfox Currency Desc"> 
@@ -69,7 +69,10 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
     <summary>Misc Items -> Things such as Baubles, Titles & Badges. </summary>
     <img src="https://puppies.digitalpawprint.gallery/go/ScXcFp" alt="HH Bauble">
 
+### Wildest Winters 1
 
+<li> Time to wrap up warm, for Third season of OtterSMP, 'Wildest Winters', along with this update, which brought the Merrymaker crate and new Starfox goodies.</li>
+<img src="https://puppies.digitalpawprint.gallery/go/LyoADb" alt="Wildest Winters 1 Starfox Currency Desc"> 
 
 ## Year: 2025
 
