@@ -5,13 +5,14 @@
 
 ## Basic Stalls & Chestshop Commands
 - /stalls -> Teleports you to the stalls area where people have their own shops where you can buy or sell items.
-- /find selling [item_name] -> Shows you a list of items being sold in playershops, allowing you to teleport them.
-- /warp stall[number] -> Let's you TP to another player's stall. Example /warp stall15.
-- /stallwarp [number]-> Allows you to 
+- /warp stall[number] -> Let's you TP to a stall number. Example /warp stall15.
+- /stallwarp [number]-> Allows you to TP to a stall number.
+- /find selling [item_name] -> Allows you to serach for items players are selling, you can even TP to the chestshop, if there is room to TP you.
+- /find buying [item_name] -> Allows you to search for items players are buying, you can even TP to the chestshop, if there is room to TP you.
 - /chestshop create [price] -> When you are staring at a chest or a barrel while holding an item, it allows you to create a chestshop for that item where you can either buy or sell that item.
-- /qs price [amount] -> Allows you to change the price of a chestshop you are staring at.
 - /chestshop staff add [username] -> Allows you to add someone to your chestshop, so they can restock for you.
 - /chestshop staff remove [username]  -> Allows you to remove someone from your chestshop, locking it.
+- /qs price [amount] -> Allows you to change the price of a chestshop you are staring at.
 - /arm addmember [username] -> Let's you give trust to build at your stall to a user.
 - /arm removemember [username] -> Allows you to take trust to build at your stall from a user.
 
@@ -43,14 +44,12 @@
     <li> Set for owners -> Sets flag to stall owner only.</li>
     <li> Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</li>
     <li> set for non-owners -> Sets flag for everyone, but the stall owner.</li>
-    </details>
 
 - <details>
     <summary>Oak Chest -> Will let you view stalls you are a member of</summary>
     <li>Red Bed -> Will show you stalls you are a member of, clicking it opens more buttons</li>
     <li>Enderperal -> Teleports you to the stall. </li>
     <li>Spawn Egg -> Shows you entitylimits. </li>
-</details>
 
 - <details>
     <summary>Compass -> Lets you search for empty regions</summary>
