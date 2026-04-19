@@ -25,16 +25,26 @@
            <li>- TNT -> Resets stall back to how it was when unclaimed. </li>
            <li>- Diamond -> Reset the stall and unrents the stall. </li>
      </ul></details></li> <!-- End 1 -->
-     <li><<summary>• Banner -> Flag Editor <</summary><ul> 
+- <details>
+    <summary>• Banner -> Flag Editor</summary>
            <li>- Greeting message -> Allows you to set a custom greeting message when someone enters your stall. </li>
            <li>- Book and Quill -> Sets the custom message </li>
            <li>- Ride -> If players can use vehicles (minecarts, animals) </li>
+           <li>- Use -> If players can use doors, levers, etc. </li>
+           <li>- Allow -> Will permit anyone to use what the flag outlines </li>
+           <li>- Deny - > Won't let anyone use what the flag outlines </li>
+
+
+
      </ul></details></li> <!-- End  2-->
      <li>1.5 <a href=""> Alone 1</a> </li>
      <li>1.6 <a href=""> Alone 2</a> </li>
    </ul> <!-- End -->
   </details>
 
+
+
+#### Old
             <div>• Banner -> Flag Editor </div>
             <div>   - Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</div>
             <div>   - Book and Quill -> Sets the custom message</div>
