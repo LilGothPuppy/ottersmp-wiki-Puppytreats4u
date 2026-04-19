@@ -18,7 +18,7 @@
 ## Extra Stalls & Chestshop Commands
 
 
-<li><details>
+<details><li>
 <summary>/arm gui -> Lets you view your stall number and other cool features, such as;</summary>
 <details><ul>
 <summary>Ender Chest</summary>
@@ -26,8 +26,7 @@
 <li> Enderpearl -> Teleports you to the stall. </li>
 <li> TNT -> Resets stall back to how it was when unclaimed </li>
 <li> Diamond -> Reset the stall and unrents the stall. </li>
-<details>
-<summary>- Banner -> Flag Editor</summary>
+<summary>- Banner -> Flag Editor</summary><ul>
 <li> Greeting message -> Allows you to set a custom greeting message when someone enters your stall. </li>
 <li> Book and Quill -> Sets the custom message </li>
 <li> Ride -> If players can use vehicles (minecarts, animals) </li>
@@ -44,20 +43,35 @@
 
 ## Testing Code
 
-  * <details><summary>/arm gui -> Lets you view your stall number and other cool features, such as;</summary><ul>
+  * <details><summary> - T E S T I N G - /arm gui -> Lets you view your stall number and other cool features, such as;</summary><ul>
      <li><details><summary>Ender Chest -> Will show your stall, clicking upon in will open the sub-menus;</summary> <ul> 
            <li>Playerhead -> Shows you members trusted to your stall.</li>
            <li>Enderpearl -> Teleports you to the stall.</li>
            <li>TNT -> Resets stall back to how it was when unclaimed.</li>
            <li>Diamond -> Reset the stall and unrents the stall.</li>
+           <li>Clock -> Extends the region time (pays rent)</li>
+           <li>Spawn Egg -> Entitiy Limits.</li>
+           <li>Book -> Posts info about the stall in chat (only viewable by you!).</li>
+           <li>Oak Door -> Go back a page.</li>
+    <li><details><summary>Banner -> Flag Editor</summary> <ul> 
+           <li>Greeting message -> Allows you to set a custom greeting message when someone enters your stall.</li>
+           <li>Book and Quill -> Sets the custom message.</li>
+           <li>Ride -> If players can use vehicles (minecarts, animals).</li>
+           <li>Use -> If players can use doors, levers, etc.</li>
+           <li>Allow -> Will permit anyone to use what the flag outlines.</li>
+           <li>Deny - > Won't let anyone use what the flag outlines.</li>
+           <li>Barrier Block -> Delete flag</li>
+           <li>Set for everyone -> Sets the flag for everyone in OtterSMP.</li>
+           <li>Set for members and owners -> Sets flags for the stall owner and people added.</li>
+           <li>Set for owners -> Sets flag to stall owner only.</li>
+           <li>Set for non-members and non-owners -> Sets flag for anyone who isn't added to the stall.</li>
+           <li>set for non-owners -> Sets flag for everyone, but the stall owner.</li>
      </ul></details></li> <!-- End 1 -->
      <li><details><summary> 1.2 <a href=""> Second Level 2 </a> </summary> <ul> 
            <li>1.2.1 <a href=""> Third 1b</a> </li>
            <li>1.2.2 <a href=""> Third 2b</a> </li>
            <li>1.2.3 <a href=""> Third 3b</a> </li>
      </ul></details></li> <!-- End  2-->
-     <li>1.5 <a href=""> Alone 1</a> </li>
-     <li>1.6 <a href=""> Alone 2</a> </li>
    </ul> <!-- End -->
   </details>
 
