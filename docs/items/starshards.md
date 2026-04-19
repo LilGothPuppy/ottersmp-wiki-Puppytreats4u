@@ -1,6 +1,8 @@
 # Star Shards/Seasonal currency
 
 Previously known as Star Shards, now known as seasonal currency are a form of common [currency](../Currency.md) found on OtterSMP. 
+Here's a gif of what starshards used to look like;
+<img src="https://puppies.digitalpawprint.gallery/go/e6Ptpu" alt="OG Starshards Gif">
 The main use of seasonal currency are within the [Starfox](../vendors/starfox.md) shop.
 ## Obtaining Seasonal currency
 
