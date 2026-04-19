@@ -26,7 +26,7 @@ The Demon's Den update did not change the Starfox's inventory, however, it techn
     <img src="https://puppies.digitalpawprint.gallery/go/BAgfEr" alt="The Twisted Blade">
 
 - <details>
-    <summary>Graidents and Comsetics</summary>
+    <summary>Graidents and Cosmetics</summary>
     <img src="https://puppies.digitalpawprint.gallery/go/Q7zfHr" alt="Graident">
     <img src="https://puppies.digitalpawprint.gallery/go/JcIdNT" alt="Kawaii Bee backpack">
     <img src="https://puppies.digitalpawprint.gallery/go/uF8jD3" alt="OG Starfox Hat">
