@@ -18,22 +18,22 @@
 ## Extra Stalls & Chestshop Commands
 
 
-<details>
+<li><details>
 <summary>/arm gui -> Lets you view your stall number and other cool features, such as;</summary>
+<details><ul>
+<summary>- Ender Chest</summary>
+<li>* Playerhead -> Shows you members trusted to your stall. </li>
+<li>* Enderpearl -> Teleports you to the stall. </li>
+<li>* TNT -> Resets stall back to how it was when unclaimed </li>
+<li>* Diamond -> Reset the stall and unrents the stall. </li>
 <details>
-<summary>Ender Chest</summary>
-* Playerhead -> Shows you members trusted to your stall. 
-* Enderpearl -> Teleports you to the stall.
-* TNT -> Resets stall back to how it was when unclaimed
-* Diamond -> Reset the stall and unrents the stall.
-<details>
-<summary>Banner -> Flag Editor</summary>
-* Greeting message -> Allows you to set a custom greeting message when someone enters your stall. </li>
-* Book and Quill -> Sets the custom message
-* Ride -> If players can use vehicles (minecarts, animals)
-* Use -> If players can use doors, levers, etc.
-* Allow -> Will permit anyone to use what the flag outlines
-* Deny - > Won't let anyone use what the flag outlines
+<summary>- Banner -> Flag Editor</summary>
+<li>* Greeting message -> Allows you to set a custom greeting message when someone enters your stall. </li>
+<li>* Book and Quill -> Sets the custom message </li>
+<li>* Ride -> If players can use vehicles (minecarts, animals) </li>
+<li>* Use -> If players can use doors, levers, etc. </li>
+<li>* Allow -> Will permit anyone to use what the flag outlines </li>
+<li>* Deny - > Won't let anyone use what the flag outlines </li>
 <details>
 <summary>Section A.B.C.D</summary>
   Done!
