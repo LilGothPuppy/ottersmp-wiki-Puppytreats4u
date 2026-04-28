@@ -39,7 +39,7 @@ Starfox used to change every season, but was randomly changed to bi-monthly (eve
 
 ### Haunted Hallows update.
 
-<img src="https://puppies.digitalpawprint.gallery/go/UDXmNd" alt="Haunted Hallows V1 Starfox Menu">
+<img src="https://puppies.digitalpawprint.gallery/go/tqiudS" alt="Haunted Hallows V1 Starfox Menu">
 
 <li> Get ready for the spooky season with Otter's Second season, 'Haunted Hallows', along with this update, which brought the HAUNTED crate and a refresh to Starfox.</li>
 <li> This Starfox, introduced a new pet, Graident, a new axe with a matching farming hoe. We got a new set of armor called 'Wizards Armor', along with decor, balloons and plushies. Starfox also had money, claimblocks, keys and a new limited furniture box available to purchase. We also, for the first time, had an option to buy 'Baubles' from Starfox, as a little "We were here for this event", and a thank you from Jazmine.</li>
